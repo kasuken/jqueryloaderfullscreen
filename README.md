@@ -18,9 +18,8 @@ Include javascript and css reference:
 
 Finally, you can call the loader.begin()
 
-      `<script>`
-            `$(document).ready(function(){`
-            
+      `<script>
+            $(document).ready(function(){
                 $('#showloader').click(function() {
              
                     loader.begin();
