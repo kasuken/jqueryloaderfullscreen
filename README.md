@@ -13,7 +13,7 @@ after the body tag.
 Include javascript and css reference:
 
 
-<link href="jquery.loader.fullscreen.css" rel="stylesheet">
-<script src="jquery.loader.fullscreen.js"></script>
+`<link href="jquery.loader.fullscreen.css" rel="stylesheet">
+<script src="jquery.loader.fullscreen.js"></script>`
 
 
