@@ -18,8 +18,7 @@ Include javascript and css reference:
 
 Finally, you can call the loader.begin()
 
-`
-        <script>
+`        <script>
             $(document).ready(function(){
 
 
