@@ -18,7 +18,7 @@ Include javascript and css reference:
 
 Finally, you can call the loader.begin()
 
-      `<script>
+      <script>
             $(document).ready(function(){
                 $('#showloader').click(function() {
              
@@ -29,4 +29,4 @@ Finally, you can call the loader.begin()
                     }, 3000); 
                 });
             });
-        </script>`
+        </script>
